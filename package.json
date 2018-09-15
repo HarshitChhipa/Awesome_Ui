@@ -1,7 +1,7 @@
 {
   "name": "minimus",
   "version": "1.0.0",
-  "author": "Hamed Baatour<hamedbaatour@gmail.com>",
+  "author": "harshit",
   "scripts": {
     "ng": "ng",
     "start": "node server.js",
